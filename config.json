@@ -1,0 +1,12 @@
+{
+  "base_url": "https://wia.amap.com",
+  "org_id": "10014089110088456117",
+  "work_map_id": "140891196472079",
+  "map_id": "100408911128110074",
+  "dimension_id": "200000010000000001",
+  "map_url": "https://wia.amap.com/#/map?orgId=10014089110088456117&workMapId=140891196472079",
+  "colors": {
+    "partner": "#7E97FF,#4265FF",
+    "customer": "#FF6968,#F74746"
+  }
+}
